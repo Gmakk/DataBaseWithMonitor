@@ -1,0 +1,27 @@
+# ninja log v5
+21	1237	7063918967306573	_deps/consolemonitor-build/src/CMakeFiles/monitor.dir/MonitorInput.cpp.obj	efa2b8f0d21b14ab
+39	1565	7063918970907393	_deps/consolemonitor-build/src/utils/CMakeFiles/monitor_utils.dir/utilFunctions.cpp.obj	a25c31159a6f30f3
+33	1810	7063918973297924	_deps/consolemonitor-build/src/commands/CMakeFiles/commands_base.dir/BaseCommand.cpp.obj	359da6a65add23ea
+17	1139	7063918966586412	_deps/consolemonitor-build/src/CMakeFiles/monitor.dir/MonitorOutput.cpp.obj	61e2ac423175511d
+51	1204	7063918967216557	myCommands/CMakeFiles/mycommands.dir/Init.cpp.obj	8e7e7738345e90fe
+1716	3001	7063918985360640	myCommands/CMakeFiles/mycommands.dir/Del.cpp.obj	564d0d77919bf81f
+1566	1723	7063918972567759	_deps/consolemonitor-build/src/utils/libmonitor_utils.a	28355426379cde7a
+28	1772	7063918972957854	_deps/consolemonitor-build/src/commands/CMakeFiles/commands_base.dir/Parser.cpp.obj	8db758186ccaacb7
+1204	2353	7063918978889180	myCommands/CMakeFiles/mycommands.dir/Help.cpp.obj	c4e6f1cb75639b31
+4	2234	7063918977668906	CMakeFiles/example.dir/example.cpp.obj	afc81103127de714
+1810	1980	7063918974828281	_deps/consolemonitor-build/src/commands/libcommands_base.a	abf5d7c6d41323ee
+1980	2119	7063918976518649	_deps/consolemonitor-build/src/libmonitor.a	f68a1d2b56aefc21
+3001	3152	7063918986900993	myCommands/libmycommands.a	3aecfa502ece17ac
+3152	3691	7063918992232189	C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/output/example.exe	768a73fcd80eb5f5
+1237	2466	7063918980019439	myCommands/CMakeFiles/mycommands.dir/Print.cpp.obj	1053b0ecb4ede480
+44	1447	7063918969637100	_deps/consolemonitor-build/src/CommonFunctions/CMakeFiles/monitor_common.dir/CommonFunctions.cpp.obj	9cda55e6dbeae2e5
+2119	2724	7063918982590017	myCommands/CMakeFiles/mycommands.dir/token.cpp.obj	f0a1d30fbce3f90a
+1789	2479	7063918980149471	myCommands/CMakeFiles/mycommands.dir/node.cpp.obj	9dd1946a65f90fbb
+8	1171	7063918966856472	CMakeFiles/example.dir/date.cpp.obj	7694ddf86ab544ff
+1724	2773	7063918983100130	myCommands/CMakeFiles/mycommands.dir/Last.cpp.obj	77c18d05d02bfbe7
+1171	2481	7063918980169474	myCommands/CMakeFiles/mycommands.dir/Add.cpp.obj	c256c126908119f6
+1139	2437	7063918979689373	myCommands/CMakeFiles/mycommands.dir/Find.cpp.obj	6bb56cc534e19f9c
+1773	2904	7063918984400425	myCommands/CMakeFiles/mycommands.dir/condition_parser.cpp.obj	e774689a5e92a844
+12	1789	7063918973167894	CMakeFiles/example.dir/database.cpp.obj	b6331600dfaea523
+1447	1716	7063918972357723	_deps/consolemonitor-build/src/CommonFunctions/libmonitor_common.a	bb2a303539689a91
+0	13	0	clean	3ac1ac369df1e668

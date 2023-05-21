@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/CMakeFiles/consolemonitor-populate"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/CMakeFiles/consolemonitor-populate.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/CMakeFiles/consolemonitor-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/cmake-build-debug/_deps/consolemonitor-subbuild/consolemonitor-populate-prefix/src/consolemonitor-populate-stamp/consolemonitor-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"consolemonitor-populate"
+		],
+		"name" : "consolemonitor-populate"
+	}
+}

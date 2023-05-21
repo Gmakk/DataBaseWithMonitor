@@ -1,0 +1,3 @@
+C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/myCommands/cmake-build-debug/CMakeFiles/mycommands.dir
+C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/myCommands/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krasi/Desktop/programms/ConsoleMonitor/example/myCommands/cmake-build-debug/CMakeFiles/rebuild_cache.dir

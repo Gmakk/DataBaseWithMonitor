@@ -1,0 +1,21 @@
+# ninja log v5
+1331	1372	7063742703439520	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4d08ee2b781e1f19
+1	42	7063742690147279	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	742596c19ee2a0ab
+1196	1243	7063742702149230	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	498050ca8b54630c
+1	42	7063742690147279	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	742596c19ee2a0ab
+43	1195	7063742701669123	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	805ccba7873c8d67
+43	1195	7063742701669123	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	805ccba7873c8d67
+1196	1243	7063742702149230	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	498050ca8b54630c
+1243	1288	7063742702599332	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	af356f2b607c5f9f
+1410	1459	7063742704319728	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	9187c6dd3d8a1293
+1243	1288	7063742702599332	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	af356f2b607c5f9f
+1288	1331	7063742703029431	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ee699c290200e54e
+1460	1514	7063742704859849	CMakeFiles/googletest-populate-complete	73681ecdc6d27c30
+1288	1331	7063742703029431	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ee699c290200e54e
+1331	1372	7063742703439520	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4d08ee2b781e1f19
+1372	1410	7063742703819620	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	3225eddf4679151a
+1372	1410	7063742703819620	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	3225eddf4679151a
+1410	1459	7063742704319728	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	9187c6dd3d8a1293
+1460	1514	7063742704859849	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	73681ecdc6d27c30
+1460	1514	7063742704859849	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	73681ecdc6d27c30
+1460	1514	7063742704859849	C:/Users/krasi/Desktop/programms/ConsoleMonitor/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	73681ecdc6d27c30
